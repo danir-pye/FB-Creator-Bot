@@ -1,6 +1,7 @@
 ## FB-Creator-Bot
 The ultimate Facebook account creator bot – fast, smart, and reliable. Designed for marketers, automation developers, and businesses.
 🔥 Premium Features:
+
 ✅ Full Proxy Support
 
 📱 Dedicated Mobile API (real app emulation)
@@ -28,6 +29,7 @@ Last update
 终极 Facebook 账号自动创建工具 —— 快速、智能、稳定。专为营销人员、开发者和自动化需求设计。
 
 🔥 高级功能：
+
 ✅ 完整代理支持
 
 📱 专用移动 API（模拟真实 App 操作）
@@ -55,6 +57,7 @@ Last update
 Лучший бот для автоматического создания аккаунтов Facebook — быстро, безопасно и эффективно. Идеален для маркетологов, автоматизации и бизнеса.
 
 🔥 Премиум-функции:
+
 ✅ Полная поддержка прокси
 
 📱 Мобильный API (эмуляция официального приложения)
