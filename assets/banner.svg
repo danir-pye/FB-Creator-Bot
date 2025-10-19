@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="420" fill="url(#g)"/>
+  <g font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#ffffff">
+    <text x="80" y="180" font-size="64" font-weight="700">Danir AI Systems</text>
+    <text x="80" y="240" font-size="28" opacity="0.9">Automation • AI Agents • No-Code Workflows • Compliant Marketing</text>
+    <a xlink:href="https://t.me/danirueaq">
+      <rect x="80" y="290" rx="10" ry="10" width="420" height="60" fill="#1d4ed8"/>
+      <text x="100" y="330" font-size="26" fill="#fff">Contact on Telegram: @danirueaq</text>
+    </a>
+  </g>
+</svg>
